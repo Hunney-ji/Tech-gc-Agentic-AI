@@ -1,0 +1,10 @@
+# Virtual env
+techgc_env/
+venv/
+__pycache__/
+
+# Python
+*.pyc
+
+# Env variables
+.env
